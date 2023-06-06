@@ -147,7 +147,7 @@ ul {
 .parallax {
   /* The image used */
   background-image: linear-gradient(to left, rgba(245, 246, 252, 0), #16232b),
-    url("images/pexels-fauxels-3182812.jpg");
+    url("/Images/pexels-fauxels-3182812.jpg");
 
   /* Full height */
   width: 100%;
@@ -186,7 +186,7 @@ ul {
         #16232bcb,
         #16232b
       ),
-      url("images/pexels-fauxels-3182812.jpg");
+      url("/Images/pexels-fauxels-3182812.jpg");
     background-size: cover;
     /* height: 100%; */
     /* width: 100%; */
@@ -283,7 +283,7 @@ ul {
 .second-parallax {
   /* The image used */
   background-image: linear-gradient(to right, rgba(245, 246, 252, 0), #16232b91),
-    url("images/pexels-panumas-nikhomkhai-1148820.jpg");
+    url("/Images/pexels-panumas-nikhomkhai-1148820.jpg");
 
   /* Full height */
   width: 100%;
